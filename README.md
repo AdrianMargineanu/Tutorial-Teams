@@ -1,5 +1,5 @@
 # Tutorial-Teams
-Welcome to Microsoft Stundet Partner-UPB. Our community is based on team cooperation and comunication. For the comunication we use Microsfot Teams, it's like a Whatsapp wanabe. Right now i will teach how to make the account on Teams that will help us in our cooperation.
+Welcome to Microsoft Stundet Partner-UPB. Our community is based on team comunication and cooperation. For the comunication we use Microsfot Teams. Right now i will teach how to make the account on Teams that will help us in our cooperation.
 
 ## Download
 This software is free and it can be downloaded on Windows, Mac, iOS and Android. [Here][link0] is the link to the official page. After the download is finished install the software.
@@ -43,5 +43,5 @@ And thats it
 [imagine3]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo3.png
 [imagine4]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo4.png
 [imagine5]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo5.png
-[imagine6]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo6.png
-[imagine7]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo7.png
+[imagine6]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo6.jpeg
+[imagine7]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo7.jpeg
