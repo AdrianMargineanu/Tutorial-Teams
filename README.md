@@ -29,8 +29,11 @@ Second you will receive on the email the link to request access and the admin wi
 Third of all Teams have some probleme with notifications on the phone soo make sure you have the notifications set.
 For this after you have the access you have to follow the notification on the channels.
 Enter on the channel and press on the second button of the right corner of the screen.
+
 ![Image6][imagine6]
+
 And then press follow.
+
 ![Image7][imagine7]
 
 
