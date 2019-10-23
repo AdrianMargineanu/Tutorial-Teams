@@ -24,9 +24,15 @@ Right here(top right corner) is a button to see you profile open it and below yo
 It should open something like that, where you have to edit your teams name to _firstName.lastName_ and upload a real picture of yours.
 ![Image5][imagine5]
 
-Second of all Teams have some probleme with notifications soo make sure you have the notifications set.
-For this use the same top right corner open _Settings_ then _Notifications_ and make sure you have all of them something like this.
+Second you will receive on the email the link to request access and the admin will accept your request. 
+
+Third of all Teams have some probleme with notifications on the phone soo make sure you have the notifications set.
+For this after you have the access you have to follow the notification on the channels.
+Enter on the channel and press on the second button of the right corner of the screen.
 ![Image6][imagine6]
+And then press follow.
+![Image7][imagine7]
+
 
 And thats it
 ## Have a nice day !!!
@@ -38,3 +44,4 @@ And thats it
 [imagine4]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo4.png
 [imagine5]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo5.png
 [imagine6]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo6.png
+[imagine7]: https://github.com/playerjack/Tutorial-Teams/blob/master/Photo7.png
