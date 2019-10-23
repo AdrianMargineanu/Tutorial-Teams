@@ -8,6 +8,7 @@ This software is free and it can be downloaded on Windows, Mac, iOS and Android.
 Meanwhile the soft is isntaling you can create your account on the same page. There is  a sing up botton in the right top corner.
 ![Image1][imagine1]
 When creating an account please use the same email that you used when appling to MSP-UPB, it will be easer to invite to the team. You can indroduce the email here
+
 ![Image2][imagine2]
 
 Also when compliting this filed use you real name and in the field _Company name_ you can write MSP (it's not soo important).
