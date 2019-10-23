@@ -19,7 +19,8 @@ Also when compliting this filed use you real name and in the field _Company name
 After Creating and account and downloading the soft, login in the soft to set it right.
 
 First of all you have to change the name that you will use in Teams and upload a photo.
-Right here(top right corner) is a button to see you profile open it and below your name it is _Edit profile_ button use it. 
+Right here(top right corner) is a button to see you profile open it and below your name it is _Edit profile_ button use it.
+
 ![Image4][imagine4]
 
 It should open something like that, where you have to edit your teams name to _firstName.lastName_ and upload a real picture of yours.
